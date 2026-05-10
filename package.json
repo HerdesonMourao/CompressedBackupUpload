@@ -27,7 +27,7 @@
     "node-cron": "^4.2.1"
   },
   "devDependencies": {
-    "@types/archiver": "^5.3.3",
+    "@types/archiver": "^7.0.0",
     "@types/cors": "^2.8.14",
     "@types/dotenv": "^8.2.0",
     "@types/express": "^5.0.6",
